@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    margin-top: 5rem;
+    text-transform: uppercase;
+    
+}
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-body{
+    background-color: rgb(200, 187, 187);
+}
